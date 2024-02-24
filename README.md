@@ -1,3 +1,4 @@
+
 <p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="150"/></p>
 
 <h1 align="center">what's up! (the sky) <img src="https://static.vecteezy.com/system/resources/previews/024/997/204/non_2x/3d-illustration-of-cloud-on-transparent-background-for-illustration-digital-composition-and-architecture-visualization-generative-ai-free-png.png" width="60"></h1>
@@ -37,3 +38,5 @@ I am Gabby, a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3015avenues&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<p align="center"> <img src="https://i.pinimg.com/originals/33/be/9c/33be9c1a2ba7965828a9bafe4db3502d.gif"></p>
