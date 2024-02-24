@@ -35,3 +35,7 @@ I am Gabby, a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### 🔥 &nbsp; My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3015avenues&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![Snake animation](https://github.com/3015avenues/3015avenues/blob/output/github-contribution-grid-snake.svg)
