@@ -1,7 +1,5 @@
 <p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="150"/></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
 <h1 align="center">what's up! (the sky) <img src="https://static.vecteezy.com/system/resources/previews/024/997/204/non_2x/3d-illustration-of-cloud-on-transparent-background-for-illustration-digital-composition-and-architecture-visualization-generative-ai-free-png.png" width="60"></h1>
 
 <p align="center"><img src="https://64.media.tumblr.com/6d2bf68a8019a75422e38bf0fd7b2b97/tumblr_oj2q2nqG401ucpx1qo1_500.gif" width="600" height="300"  /></p>
@@ -36,5 +34,4 @@ I am Gabby, a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3015avenues)](https://git.io/streak-stats) &nbsp; 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3015avenues&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
